@@ -1,0 +1,14 @@
+{
+    "name": "acelovezy/we-chat",
+    "description": "微信公组件",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "acelovezy@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
